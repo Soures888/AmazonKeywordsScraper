@@ -23,7 +23,6 @@ pip install -u requirements.txt
 REQUEST_TIMEOUT=1
 PAGE_PER_KEYWORD=10
 PARSING_ZIP_CODE=10001
-SAVE_RESPONSE_PAGE=True
 ```
 3. Run a python script
 ```bash
