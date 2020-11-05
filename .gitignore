@@ -1,0 +1,5 @@
+.idea/
+venv/
+res/parsed_pages/*.html
+res/keywords.txt
+database.db

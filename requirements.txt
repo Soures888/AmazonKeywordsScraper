@@ -1,0 +1,13 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+loguru==0.5.3
+peewee==3.13.3
+pydantic==1.7.2
+python-dotenv==0.15.0
+random-user-agent==1.0.1
+requests==2.24.0
+soupsieve==2.0.1
+urllib3==1.25.11
