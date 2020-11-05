@@ -12,7 +12,7 @@ Scraper collects data from Amazon.com search results under a specific Zip code, 
 # Installation
 
 ```
-git clone -
+git clone https://github.com/Soures888/AmazonKeywordsScraper
 pip install -u requirements.txt
 ```
 
